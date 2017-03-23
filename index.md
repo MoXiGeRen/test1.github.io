@@ -14,6 +14,8 @@ For example here is one of my previous HW assignments:
 <p><a href="https://github.com/MoXiGeRen/test1.github.io/blob/master/assignment6(2).ipynb">Assigment 6</a></p>
 
 <h3 id="sta-141b-final-project">STA 141B Final Project</h3>
+
+
 <p><a href="https://github.com/MoXiGeRen/test1.github.io/blob/master/FinalProj.ipynb">Final Project as notebook</a></p>
 
 <p><a href="https://github.com/MoXiGeRen/test1.github.io/blob/master/FinalProj.html">Final Proj as html</a></p>
@@ -24,4 +26,4 @@ The overall goal is to measure the benefits of water quality, sanitation, hand w
 
 I created the Asset Index using PCA in STATA and relabeled the excel files using STATA as well. 
 
-
+[final project](/test1.github.io/finalproject)

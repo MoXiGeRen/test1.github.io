@@ -20,7 +20,6 @@ For example here is one of my previous HW assignments:
 
 <p><a href="https://github.com/MoXiGeRen/test1.github.io/blob/master/FinalProj.html">Final Proj as html</a></p>
 
-/FinalProj.html
 
 I am very fortunate to be participating in the WASH Benefits Study program here in UC DAVIS. More information regarding the study can be found at: http://www.washbenefits.net/
 
@@ -28,4 +27,4 @@ The overall goal is to measure the benefits of water quality, sanitation, hand w
 
 I created the Asset Index using PCA in STATA and relabeled the excel files using STATA as well. 
 
-[final project](/test1.github.io/finalproject)
+

@@ -4,7 +4,7 @@ My name is Jesus Guillen. I am a 5th year finishing up my Majors in Statistics a
 
 Another paper I am reading is one on mutual information: 
 
-<h3 id="pdf">Article PDF</h3>
+<h3 id="pdf">Mutual Information PDF</h3>
 <p><a href="https://github.com/MoXiGeRen/test1.github.io/blob/master/1301.7745.pdf">Link to paper</a></p>
 
 In this portfolio I plan on uploading stat projects in addition to research I am doing on the WASH benefits study.
